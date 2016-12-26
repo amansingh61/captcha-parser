@@ -1,1 +1,1 @@
-module.exports = require('captcha-parser.js');
+module.exports = require('./captcha-parser.js');
