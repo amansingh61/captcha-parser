@@ -1,0 +1,25 @@
+{
+  "name": "captcha-parser-test",
+  "version": "1.0.3",
+  "description": "This captcha resolver",
+  "main": "index.js",
+  "scripts": {
+    "test": "captcha-parser"
+  },
+  "keywords": [
+    "captcha-parser"
+  ],
+  "author": "Aman Singh",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/amansingh61/captcha-parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amansingh61/captcha-parser/issues"
+  },
+  "homepage": "https://github.com/amansingh61/captcha-parser#readme",
+  "dependencies": {
+    "captcha-parser": "^1.0.3"
+  }
+}
